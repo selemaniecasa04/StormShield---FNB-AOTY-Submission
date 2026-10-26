@@ -1,0 +1,28 @@
+{
+  "boundary": [
+    [-29.655, 30.82], [-29.655, 31.115], [-29.69, 31.105], [-29.73, 31.088], [-29.77, 31.062],
+    [-29.81, 31.045], [-29.84, 31.043], [-29.865, 31.046], [-29.885, 31.05], [-29.91, 31.045],
+    [-29.935, 31.025], [-29.955, 31.0], [-29.975, 30.975], [-30.0, 30.952], [-30.03, 30.925],
+    [-30.06, 30.903], [-30.085, 30.885], [-30.085, 30.82]
+  ],
+  "zones": [
+    { "id": "umlazi", "name": "Umlazi", "c": [-29.965, 30.885], "river": "mlazi", "low": 0.9, "pop": 404000, "peak": 92, "pk": 8, "hazard": "flood" },
+    { "id": "isipingo", "name": "Isipingo", "c": [-29.995, 30.928], "river": "isipingo", "low": 0.95, "pop": 31000, "peak": 88, "pk": 7, "hazard": "flood" },
+    { "id": "merebank", "name": "Merebank & Clairwood", "c": [-29.947, 30.965], "river": "mlazi", "low": 0.8, "pop": 46000, "peak": 78, "pk": 9, "hazard": "flood" },
+    { "id": "bluff", "name": "Bluff", "c": [-29.93, 31.012], "river": null, "low": 0.3, "pop": 39000, "peak": 40, "pk": 5, "hazard": "rain" },
+    { "id": "umbilo", "name": "Umbilo & Glenwood", "c": [-29.876, 30.985], "river": "mbilo", "low": 0.6, "pop": 42000, "peak": 67, "pk": 6, "hazard": "flood" },
+    { "id": "cbd", "name": "Durban CBD", "c": [-29.858, 31.025], "river": null, "low": 0.5, "pop": 60000, "peak": 54, "pk": 6, "hazard": "flood" },
+    { "id": "berea", "name": "Berea & Musgrave", "c": [-29.842, 30.998], "river": null, "low": 0.1, "pop": 52000, "peak": 22, "pk": 5, "hazard": "rain" },
+    { "id": "springfield", "name": "Springfield & Riverside", "c": [-29.805, 31.0], "river": "mngeni", "low": 0.85, "pop": 21000, "peak": 82, "pk": 11, "hazard": "flood" },
+    { "id": "durbannorth", "name": "Durban North", "c": [-29.785, 31.038], "river": null, "low": 0.2, "pop": 38000, "peak": 24, "pk": 6, "hazard": "rain" },
+    { "id": "westville", "name": "Westville", "c": [-29.835, 30.93], "river": "mbilo", "low": 0.2, "pop": 34000, "peak": 26, "pk": 5, "hazard": "rain" },
+    { "id": "pinetown", "name": "Pinetown", "c": [-29.815, 30.865], "river": "mbilo", "low": 0.35, "pop": 144000, "peak": 42, "pk": 5, "hazard": "rain" },
+    { "id": "chatsworth", "name": "Chatsworth", "c": [-29.912, 30.885], "river": "mlazi", "low": 0.45, "pop": 196000, "peak": 56, "pk": 8, "hazard": "flood" },
+    { "id": "inanda", "name": "Inanda & Ntuzuma", "c": [-29.7, 30.945], "river": "mngeni", "low": 0.75, "pop": 260000, "peak": 77, "pk": 9, "hazard": "landslide" },
+    { "id": "kwamashu", "name": "KwaMashu", "c": [-29.745, 30.975], "river": "mngeni", "low": 0.6, "pop": 175000, "peak": 63, "pk": 10, "hazard": "flood" },
+    { "id": "phoenix", "name": "Phoenix", "c": [-29.705, 31.012], "river": null, "low": 0.35, "pop": 176000, "peak": 44, "pk": 7, "hazard": "rain" },
+    { "id": "umhlanga", "name": "Umhlanga", "c": [-29.722, 31.072], "river": null, "low": 0.2, "pop": 25000, "peak": 21, "pk": 6, "hazard": "rain" },
+    { "id": "amanzimtoti", "name": "Amanzimtoti", "c": [-30.045, 30.875], "river": null, "low": 0.55, "pop": 44000, "peak": 59, "pk": 7, "hazard": "flood" },
+    { "id": "mayville", "name": "Mayville & Cato Manor", "c": [-29.855, 30.955], "river": "mbilo", "low": 0.4, "pop": 93000, "peak": 48, "pk": 6, "hazard": "landslide" }
+  ]
+}
