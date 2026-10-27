@@ -33,7 +33,7 @@ A demo walk-through that shows everything in about 3 minutes:
 ## Features
 
 - **Landing page**: interactive city map, current risk, weather overview, active alerts, address search and "use my location".
-- **Map** (Leaflet + OpenStreetMap/CARTO/Esri): green, yellow, orange and red danger zones, flood extent simulation (shallow and deep water), animated flood progression paths, water level gauges, storm cell and track, evacuation corridors, road closures, shelters, hospitals, police, fire stations, community halls and community reports. Dark, street and satellite base maps.
+- **Map** (Leaflet + OpenStreetMap/Esri): green, yellow, orange and red danger zones, flood extent simulation (shallow and deep water), animated flood progression paths, water level gauges, storm cell and track, evacuation corridors, road closures, shelters, hospitals, police, fire stations, community halls and community reports. Dark, street and satellite base maps.
 - **Fullscreen map** with a 12-hour forecast timeline (play, scrub) and a full legend.
 - **Registration** in 4 steps: details, locations (search, tap the map or GPS, with instant risk feedback), safety profile (11 languages with a live alert preview, emergency contact, vulnerability, medical), review with POPIA consent.
 - **Role-based auth**: residents and admins; bcrypt passwords; signed httpOnly session cookie.
