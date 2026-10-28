@@ -6,6 +6,8 @@ Built for the FNB App of the Year Hackathon 2026, *Climate resilience and essent
 
 ## Try it
 
+Link to demo video: https://drive.google.com/file/d/11-pMaDXBQaIr6fcOVIAsvDtqnhOp0wWu/view?usp=sharing
+
 Every account also has a one-tap button on the login page.
 
 | Account | Role | Sign in |
